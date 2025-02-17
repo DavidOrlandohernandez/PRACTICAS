@@ -1,0 +1,14 @@
+
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "fusion".(¶ù•õşÿÿÿÿ8’”¸¯½2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ÎŒï8“”¸¯½2
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ñ´áµúÿÿÿÿ8–”¸¯½2
+Q
+java:S1611"/Remove the parentheses around the "a" parameter(ñ´áµúÿÿÿÿ8–”¸¯½2
+G	java:S106"+Replace this use of System.out by a logger.(Ëò¥8—”¸¯½2
+{
+java:S4276"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(í«àÊıÿÿÿÿ8˜”¸¯½2
+Q
+java:S1611"/Remove the parentheses around the "a" parameter(í«àÊıÿÿÿÿ8˜”¸¯½2
+G	java:S106"+Replace this use of System.out by a logger.(öÖ›8˜”¸¯½2

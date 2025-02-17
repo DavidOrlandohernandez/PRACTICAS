@@ -1,0 +1,77 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßçÔ¶úÿÿÿÿ8ú¤¯â½2
+O
+java:S1611"2Remove the parentheses around the "name" parameter(Œ»å8ˆ¥¯â½2
+I
+java:S1602",Remove useless curly braces around statement(Œ»å8ˆ¥¯â½2
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Œ»å8ˆ¥¯â½2
+G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8Š¥¯â½2
+O
+java:S1611"2Remove the parentheses around the "name" parameter(ÓÂ•Ê8‹¥¯â½2
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÓÂ•Ê8‹¥¯â½2
+G	java:S106"+Replace this use of System.out by a logger.(ÓÂ•Ê8‹¥¯â½2
+G	java:S106"+Replace this use of System.out by a logger.(Ù¯Ù­8‹¥¯â½2
+O
+java:S1611"2Remove the parentheses around the "name" parameter(à½†8Œ¥¯â½2
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(à½†8Œ¥¯â½2
+O
+java:S1611!"2Remove the parentheses around the "name" parameter(øŸ‡™8¥¯â½2
+G	java:S106!"+Replace this use of System.out by a logger.(øŸ‡™8¥¯â½2
+F	java:S106#"+Replace this use of System.out by a logger.(åôÁ(8¥¯â½2
+T
+java:S1611%"2Remove the parentheses around the "name" parameter(Ï»×“üÿÿÿÿ8¥¯â½2
+b
+java:S1612%"@Replace this lambda with method reference 'String::toUpperCase'.(Ï»×“üÿÿÿÿ8¥¯â½2
+T
+java:S1611&"2Remove the parentheses around the "name" parameter(¤Éå°úÿÿÿÿ8¥¯â½2
+O
+java:S1611'"2Remove the parentheses around the "name" parameter(â·äê8¥¯â½2
+G	java:S106'"+Replace this use of System.out by a logger.(â·äê8¥¯â½2
+L	java:S106+"+Replace this use of System.out by a logger.(ßÖÈØşÿÿÿÿ8‘¥¯â½2
+G	java:S106-"+Replace this use of System.out by a logger.(Î‰È8‘¥¯â½2
+L	java:S1062"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8’¥¯â½2
+L	java:S1063"+Replace this use of System.out by a logger.(¤Ì–¯şÿÿÿÿ8’¥¯â½2
+T
+java:S16115"2Remove the parentheses around the "name" parameter(ìı† øÿÿÿÿ8“¥¯â½2
+G	java:S106:"+Replace this use of System.out by a logger.(…Ò “8“¥¯â½2
+L	java:S106>"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8”¥¯â½2
+G	java:S106@"+Replace this use of System.out by a logger.(›âë8”¥¯â½2
+t
+java:S6204D"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ûÙ…‘úÿÿÿÿ8”¥¯â½2
+O
+java:S1611C"2Remove the parentheses around the "name" parameter(æ×Şå8•¥¯â½2
+]
+java:S1612C"@Replace this lambda with method reference 'String::toUpperCase'.(æ×Şå8•¥¯â½2
+L	java:S106F"+Replace this use of System.out by a logger.(ú•äóúÿÿÿÿ8–¥¯â½2
+L	java:S106G"+Replace this use of System.out by a logger.(ò¥êşÿÿÿÿ8–¥¯â½2
+G	java:S106I"+Replace this use of System.out by a logger.(äã¨ú8–¥¯â½2
+G	java:S106J"+Replace this use of System.out by a logger.(¬‹æ‡8–¥¯â½2
+G	java:S106L"+Replace this use of System.out by a logger.(³Õóä8—¥¯â½2
+G	java:S106M"+Replace this use of System.out by a logger.(¯”ŠŞ8—¥¯â½2
+G	java:S106O"+Replace this use of System.out by a logger.(Ãİå‡8—¥¯â½2
+L	java:S106Q"+Replace this use of System.out by a logger.(ÍêĞÔùÿÿÿÿ8—¥¯â½2
+T
+java:S1611T"2Remove the parentheses around the "name" parameter(®ÿŒ¶ıÿÿÿÿ8—¥¯â½2
+L	java:S106U"+Replace this use of System.out by a logger.(¸šñÙüÿÿÿÿ8™¥¯â½2
+L	java:S106W"+Replace this use of System.out by a logger.(Á¥Îûÿÿÿÿ8™¥¯â½2
+O
+java:S1611X"2Remove the parentheses around the "name" parameter(ƒ‰²Ñ8™¥¯â½2
+L	java:S106Y"+Replace this use of System.out by a logger.(¸šñÙüÿÿÿÿ8š¥¯â½2
+O
+java:S1611\"2Remove the parentheses around the "name" parameter(÷¸Ê‘8š¥¯â½2
+p
+java:S1602\"SRemove useless curly braces around statement and then remove useless return keyword(÷¸Ê‘8š¥¯â½2
+L	java:S106`"+Replace this use of System.out by a logger.(¸šñÙüÿÿÿÿ8š¥¯â½2
+L	java:S106a"+Replace this use of System.out by a logger.(‚åÚùÿÿÿÿ8›¥¯â½2
+O
+java:S1611c"2Remove the parentheses around the "name" parameter(Ñ¹‰Î8›¥¯â½2
+p
+java:S1602c"SRemove useless curly braces around statement and then remove useless return keyword(Ñ¹‰Î8›¥¯â½2
+L	java:S106g"+Replace this use of System.out by a logger.(¸šñÙüÿÿÿÿ8›¥¯â½2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8œ¥¯â½2
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8œ¥¯â½2

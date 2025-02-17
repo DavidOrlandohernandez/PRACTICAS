@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦»‡š8Æó´½2
+g
+java:S1854"ERemove this useless assignment to local variable "binaryOperatorDos".(…³¯àûÿÿÿÿ8‚×ó´½2
+t
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(÷Ãæ‰8Ëó´½2
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(÷Ãæ‰8Ëó´½2
+y
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(…³¯àûÿÿÿÿ8Íó´½2
+X
+java:S1481"6Remove this unused "binaryOperatorDos" local variable.(…³¯àûÿÿÿÿ8ƒ×ó´½2
+L	java:S106"+Replace this use of System.out by a logger.(µ¥Á‹ÿÿÿÿÿ8Íó´½2
+L	java:S106"+Replace this use of System.out by a logger.(¤ŠŸÒıÿÿÿÿ8­õ´½2

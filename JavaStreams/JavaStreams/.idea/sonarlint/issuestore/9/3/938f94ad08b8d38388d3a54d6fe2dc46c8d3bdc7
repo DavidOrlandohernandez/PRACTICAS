@@ -1,0 +1,17 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÔşÅùÿÿÿÿ8Ó÷Œµ½2
+c
+java:S1854"ARemove this useless assignment to local variable "unaryOperator".(ª© ¼ıÿÿÿÿ8ëæµ½2
+x
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ª© ¼ıÿÿÿÿ8Õ÷Œµ½2
+Q
+java:S1611"/Remove the parentheses around the "a" parameter(ª© ¼ıÿÿÿÿ8Õ÷Œµ½2
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ª© ¼ıÿÿÿÿ8Õ÷Œµ½2
+T
+java:S1481"2Remove this unused "unaryOperator" local variable.(ª© ¼ıÿÿÿÿ8ìæµ½2
+x
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ˆıÆùÿÿÿÿ8¨µ½2
+Q
+java:S1611"/Remove the parentheses around the "a" parameter(ˆıÆùÿÿÿÿ8¨µ½2
+L	java:S106"+Replace this use of System.out by a logger.(ªõ¡úÿÿÿÿ8ÖËµ½2

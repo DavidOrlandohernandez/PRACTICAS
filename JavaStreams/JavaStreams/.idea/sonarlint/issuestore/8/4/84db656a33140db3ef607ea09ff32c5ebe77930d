@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(π―ρ­ÿÿÿÿÿ8μμ¬½2
+U
+java:S1611"3Remove the parentheses around the "param" parameter(‘ªΧΤϊÿÿÿÿ8§μμ¬½2
+N
+java:S1602",Remove useless curly braces around statement(‘ªΧΤϊÿÿÿÿ8§μμ¬½2
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(‘ªΧΤϊÿÿÿÿ8§μμ¬½2
+G	java:S106"+Replace this use of System.out by a logger.(Τ‘³8§μμ¬½2
+G	java:S106"+Replace this use of System.out by a logger.(Σ™ΐ8―μμ¬½2

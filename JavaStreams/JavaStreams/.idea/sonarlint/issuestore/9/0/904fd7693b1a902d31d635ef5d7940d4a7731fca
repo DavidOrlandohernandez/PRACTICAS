@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë¢Áıÿÿÿÿ8ÈÔç¯½2
+z
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(Ãè‚Á8ÌÔç¯½2
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Ãè‚Á8ÌÔç¯½2
+F	java:S106"+Replace this use of System.out by a logger.(ûõ N8ÍÔç¯½2
+y
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(Úïë8ÍÔç¯½2
+L	java:S106"+Replace this use of System.out by a logger.(ÜåõÕÿÿÿÿÿ8ÍÔç¯½2
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8şñé¯½2
