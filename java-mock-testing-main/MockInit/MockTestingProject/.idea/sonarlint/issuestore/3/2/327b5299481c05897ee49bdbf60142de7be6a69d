@@ -1,0 +1,14 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "Barcelona" 6 times.(£ôÏÍıÿÿÿÿ8³ÂæØ2
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Medio" 6 times.(£ôÏÍıÿÿÿÿ8´ÂæØ2
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(‘¤ˆ¾ûÿÿÿÿ8´ÂæØ2
+Y
+java:S4973."<Strings and Boxed types should be compared using "equals()".(üËğ„8´ÂæØ2
+]	java:S125"<This block of commented-out lines of code should be removed.(•Çİûÿÿÿÿ8¸İæØ2
+L	java:S106"+Replace this use of System.out by a logger.(•Ü•İşÿÿÿÿ8ÃÂæØ2
+F	java:S106"+Replace this use of System.out by a logger.(œÑ•,8ÄÂæØ2
+L	java:S106&"+Replace this use of System.out by a logger.(ÍÆô…ùÿÿÿÿ8ÅÂæØ2
+G	java:S106,"+Replace this use of System.out by a logger.(Ã„²Š8ÆÂæØ2
